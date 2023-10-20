@@ -19,12 +19,14 @@ f.addConstr(1*m1 + 1*b1 == 3000, "demand-model-1")
 f.addConstr(1*m2 + 1*b2 == 2000, "demand-model-2")
 f.addConstr(1*m3+ 1*b3 == 900, "demand-model-3")
 
-f.addConstr(m1>=0, "number-model-1-in-house-non-negativity")
-f.addConstr(m2>=0, "number-model-2-in-house-non-negativity")
-f.addConstr(m3>=0, "number-model-3-in-house-non-negativity")
-f.addConstr(b1>=0, "number-model-1-by-from-competitor-non-negativity")
-f.addConstr(b2>=0, "number-model-2-by-from-competitor-non-negativity")
-f.addConstr(b3>=0, "number-model-3-by-from-competitor-non-negativity")
+#f.addConstr(m1>=0, "number-model-1-in-house-non-negativity")
+#f.addConstr(m2>=0, "number-model-2-in-house-non-negativity")
+#f.addConstr(m3>=0, "number-model-3-in-house-non-negativity")
+#f.addConstr(b1>=0, "number-model-1-by-from-competitor-non-negativity")
+#f.addConstr(b2>=0, "number-model-2-by-from-competitor-non-negativity")
+#f.addConstr(b3>=0, "number-model-3-by-from-competitor-non-negativity")
+
+f.write('01-electro-poly-generated.lp')
 
 f.optimize()
 

@@ -1,1 +1,1 @@
-gurobi_cl  ResultFile=.\01_electo_poly.sol  .\01_electro_poly.lp
+gurobi_cl  ResultFile=.\01-electo-poly.sol  .\01-electro-poly.lp
