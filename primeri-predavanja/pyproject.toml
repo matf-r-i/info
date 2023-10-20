@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "primeri-predavanja"
+version = "0.1.0"
+description = ""
+authors = ["Vladimir Filipovic <vladofilipovic@hotmail.com>"]
+readme = "README.md"
+packages = [{include = "primeri_predavanja"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+gurobipy = "^10.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
