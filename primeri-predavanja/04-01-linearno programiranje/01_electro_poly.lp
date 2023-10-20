@@ -1,11 +1,11 @@
 Minimize
-  50*m1 + 83*m2 + 130*m3 + 61*b1 + 97*b2 + 145*b3
+  50 m1 + 83 m2 + 130 m3 + 61 b1 + 97 b2 + 145 b3
 Subject To
-  c0: 2*m1 + 1.5*m2 + 3*m3 <= 10000
-  c1: 1*m1 + 2*m2 + 1*m3 <= 5000
-  c2: 1*m1 + 1*b1 == 3000
-  c3: 1*m2 + 1*b2 == 2000
-  c4: 1*m3+ 1*b3 == 900
+  resource-wiring: 2 m1 + 1.5 m2 + 3 m3 <= 10000
+  resource-harnessing: 1 m1 + 2 m2 + 1 m3 <= 5000
+  demand-model-1: 1 m1 + 1 b1 = 3000
+  demand-model-2: 1 m2 + 1 b2 = 2000
+  demand-model-3: 1 m3 + 1 b3 = 900
 Bounds
   m1 >= 0
   m2 >= 0
