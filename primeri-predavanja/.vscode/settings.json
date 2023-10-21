@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
         "Dyna",
+        "gurobi",
         "gurobipy",
         "linopy",
-        "Opti"
+        "Opti",
+        "xarray"
     ]
 }

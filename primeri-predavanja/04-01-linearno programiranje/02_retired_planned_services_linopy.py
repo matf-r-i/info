@@ -18,7 +18,7 @@ m.add_constraints(x4 <= 187500, name="No more than 25 percent investment on Micr
 m.add_constraints(x5 <= 187500, name="No more than 25 percent investment on OptiPro")
 m.add_constraints(x6 <= 187500, name="No more than 25 percent investment on Sabre Systems")
 
-m.add_constraints(x1 + x2 + x4 + x5 + x6 >= 375000, name="Long term investment 50 percent restriction")
+m.add_constraints(x1 + x2 + x4 + x6 >= 375000, name="Long term investment 50 percent restriction")
 
 m.add_constraints(x2 + x3 + x5 <= 262500, name="Restriction on DynaStar, Eagle Vision and OptiPro")
 
