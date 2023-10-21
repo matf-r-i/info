@@ -9,6 +9,7 @@ packages = [{include = "primeri_predavanja"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 gurobipy = "^10.0.3"
+linopy = "^0.2.6"
 
 
 [build-system]
