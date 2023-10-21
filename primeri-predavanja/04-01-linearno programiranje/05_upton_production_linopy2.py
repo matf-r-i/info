@@ -25,12 +25,12 @@ m.add_constraints(b+p-demands <= 6000, name="ending inventory upper bound")
 
 # beginning balances
 m.add_constraints(b.loc[0] == 2750, name="month 1 beginning balance")
-m.add_constraints(b.loc[1] == b.loc[0]+p.loc[0]-1000, name="month 2 beginning balance")
-m.add_constraints(b.loc[2] == b.loc[1]+p.loc[1]-4500, name="month 3 beginning balance")
-m.add_constraints(b.loc[3] == b.loc[2]+p.loc[2]-6000, name="month 4 beginning balance")
-m.add_constraints(b.loc[4] == b.loc[3]+p.loc[3]-5500, name="month 5 beginning balance")
-m.add_constraints(b.loc[5] == b.loc[4]+p.loc[4]-3500, name="month 6 beginning balance")
-m.add_constraints(b.loc[6] == b.loc[5]+p.loc[5]-4000, name="month 7 beginning balance")
+m.add_constraints(b.loc[1] == b.loc[0]+p.loc[0]-demands[0], name="month 2 beginning balance")
+m.add_constraints(b.loc[2] == b.loc[1]+p.loc[1]-demands[1], name="month 3 beginning balance")
+m.add_constraints(b.loc[3] == b.loc[2]+p.loc[2]-demands[2], name="month 4 beginning balance")
+m.add_constraints(b.loc[4] == b.loc[3]+p.loc[3]-demands[3], name="month 5 beginning balance")
+m.add_constraints(b.loc[5] == b.loc[4]+p.loc[4]-demands[4], name="month 6 beginning balance")
+m.add_constraints(b.loc[6] == b.loc[5]+p.loc[5]-demands[5], name="month 7 beginning balance")
 
 costs_production = xr.DataArray([240, 250, 265, 285, 280, 260])
 costs_inventory = xr.DataArray( 
