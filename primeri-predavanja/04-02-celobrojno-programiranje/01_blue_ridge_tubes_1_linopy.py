@@ -9,7 +9,7 @@ m.add_constraints(x1 + x2 <= 200, name="pumps constraint")
 m.add_constraints(9*x1 + 6*x2 <= 1520, name="labor constraint")
 m.add_constraints(12*x1 + 16*x2 <= 2650, name="tubing constraint")
 
-m.add_objective(-(350*x1 + 300*x2))
+m.add_objective(350*x1 + 300*x2, sense='max')
 
 print(m)
 
