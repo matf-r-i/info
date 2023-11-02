@@ -2,32 +2,25 @@
 
 Предавања из курса Рачунарска интелигенција су организована на следећи начин:
 
-- **[Увод у рачунарку интелигенцију](prezentacije/02.Uvod.u.racunarsku.inteligenciju.pdf)**
+- **Уводна разматрања**
 
-- **[Фази системи](prezentacije/03.Fazi.sistemi.pdf)**
+- **[Анализа, одлучивање, оптимизација (енг.)](prezentacije/01-uvod/01_uvod_eng.pdf){:target="_blank"}**
+
+- **[Оптимизација и машинско учење](prezentacije/01-uvod/02-optimizacija-i-masinsko-ucenje.pdf){:target="_blank"}**
+
+- **[Рачунарска интелигенција](prezentacije/01-uvod/03-uvod-u-racunarsku-inteligenciju.pdf){:target="_blank"}**
+
+- **Фази системи**
+
+- **[Фази системи](prezentacije/02-fazi-sistemi/01-fazi-sistemi.pdf){:target="_blank"}**
 
 - **Дефиниција и опис оптимизације**
 
-  - **[Рекпитулација неких појмова који се односе на графове](prezentacije/04.Graph.theory.quick.guide.pdf)**
+  - **[Оптимизација](prezentacije/03-optimizacija/01-optimizacija-uvod.pdf){:target="_blank"}**
 
-  - **[Опис оптимизацииних метода](prezentacije/05.Optimizacija.ukratko.pdf)**
+  - **[Рекпитулација појмова који се односе на графове (енг.)](prezentacije/03-optimizacija/02-grafovi-uvod-eng.pdf){:target="_blank"}**
 
-- **Целобројно линеарано програмирање (ILP)**
+  - **[Оптимизација (енг.)](prezentacije/03-optimizacija/03-optimizacija-uvod-1-eng.pdf){:target="_blank"}**
 
-  - **[Опис ILP](prezentacije/06.Integer.linerar.programming.pdf)**
+  - **[Оптимизација 2 (енг.)](prezentacije/03-optimizacija/04-optimizacija-uvod-2-eng.pdf){:target="_blank"}**
 
-  - **[ILP формулације](prezentacije/06a.Integer.linearprogramming.formulations.pdf)**
-
-  - **[Гранање и ограничавање код ILP](prezentacije/06b.Branch.and.bound.pdf)**
-
-- **Метахеуристике**
-
-  - **[Еволутиовна израчунавања](prezentacije/07.Evolutivna.izracunavanja.pdf)**
-
-  - **[Генетски алгоритми](prezentacije/08.Genetski.algoritmi.pdf)**
-
-  - **[Интелигенција ројева](prezentacije/09.Inteligencija.rojeva.pdf)**
-
-  - **[Оптимизација ројевима честица](prezentacije/10.Optimizacija.rojevima.cestica.pdf)**
-
-- **[Вештачке неуронске мреже](prezentacije/11.Vestacke.neuronske.mreze.pdf)**
