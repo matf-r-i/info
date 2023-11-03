@@ -32,7 +32,7 @@
 
     - [Проблем инвестирања (енг.)](prezentacije/04-linearno-i-celobrojno-programiranje/04-01-linearno-programiranje/02-linearno-programiranje-investirranje-primer-eng.pdf){:target="_blank"}
 
-    - [Проблем транспорта (енг.)](prezentacije/04-linearno-i-celobrojno-programiranje/04-01-linearno-programiranje/03-linearno-programiranje-transport-primer-eng.pdf){:target="_blank"}**
+    - [Проблем транспорта (енг.)](prezentacije/04-linearno-i-celobrojno-programiranje/04-01-linearno-programiranje/03-linearno-programiranje-transport-primer-eng.pdf){:target="_blank"}
 
     - [Проблем креирање смесе (енг.)](prezentacije/04-linearno-i-celobrojno-programiranje/04-01-linearno-programiranje/04-linearno-programiranje-mesanje-primer-eng.pdf){:target="_blank"}
   
