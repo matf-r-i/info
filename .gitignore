@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/primeri-predavanja/utilities/GameFeaver5/GameFeaver5/.vs/GameFeaver5
+/primeri-predavanja/utilities/GameFeaver5/GameFeaver5/bin/Debug/net7.0-windows10.0.19041.0/win10-x64
+/primeri-predavanja/utilities/GameFeaver5/GameFeaver5/obj
