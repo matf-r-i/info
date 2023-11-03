@@ -18,7 +18,7 @@
 
   - **[Оптимизација](prezentacije/03-optimizacija/01-optimizacija-uvod.pdf){:target="_blank"}**
 
-  - **[Рекпитулација појмова који се односе на графове (енг.)](prezentacije/03-optimizacija/02-grafovi-uvod-eng.pdf){:target="_blank"}**
+  - **[Рекaпитулација појмова који се односе на графове (енг.)](prezentacije/03-optimizacija/02-grafovi-uvod-eng.pdf){:target="_blank"}**
 
   - **[Оптимизација (енг.)](prezentacije/03-optimizacija/03-optimizacija-uvod-1-eng.pdf){:target="_blank"}**
 
