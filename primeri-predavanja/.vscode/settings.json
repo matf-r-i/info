@@ -1,10 +1,13 @@
 {
     "cSpell.words": [
         "Dyna",
+        "ggplot",
         "gurobi",
         "gurobipy",
         "linopy",
         "Opti",
+        "plotnine",
+        "usecols",
         "xarray"
     ]
 }
