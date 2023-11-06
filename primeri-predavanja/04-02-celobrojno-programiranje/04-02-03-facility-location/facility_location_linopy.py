@@ -82,10 +82,11 @@ y = model.add_variables(binary=True, coords=[y_coord], name='y')
 # Objective function
 model.add_objective( (x*distances).sum() + (build_costs*y).sum(), sense='min')
 
-# Constraints  
+# Constraint: each consumer is served by one facility
 for i in range(n):
     model.add_constraints( (x.loc[i,]).sum() == 1)
 
+# Constraint: each consumer can be supplied from one established facility 
 for i in range(n):
     for j in range(m):
         model.add_constraints(x.loc[i,j] <= y.loc[j])
