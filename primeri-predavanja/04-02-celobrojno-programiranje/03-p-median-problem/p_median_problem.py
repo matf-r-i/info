@@ -128,7 +128,7 @@ draw = (
     + aes(x="x", y="y")  
     + geom_point() 
     + geom_segment(data=links)
-    + geom_point(data = facility_locations, mapping = aes(x=(x1), y=(y1), xend=(x2), yend=(y2)), color = "red", alpha = 0.5)
+    #+ geom_point(data = facility_locations, mapping = aes(x=x1, y=y1, xend=x2, yend=y2), color = "red", alpha = 0.5)
     + geom_point(data = selected, color = "cyan", alpha = 0.5, size=2) 
 )
 print(draw)
