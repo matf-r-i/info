@@ -11,6 +11,7 @@ python = "^3.10"
 gurobipy = "^10.0.3"
 linopy = ">=0.3"
 plotnine = "^0.12.4"
+networkx = "^3.2.1"
 
 
 [build-system]

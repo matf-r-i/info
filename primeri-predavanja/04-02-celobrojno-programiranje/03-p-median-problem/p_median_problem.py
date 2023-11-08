@@ -20,11 +20,11 @@ import xarray as xr
 from linopy import Model
 
 # Load data
-consumer_locations = pd.read_csv('04-02-celobrojno-programiranje/04-02-03-facility-location/data/consumer_locations.csv', usecols= ['x','y'])
+consumer_locations = pd.read_csv('04-02-celobrojno-programiranje/03-p-median-problem/data/consumer_locations.csv', usecols= ['x','y'])
 #print(consumer_locations)
-facility_locations = pd.read_csv('04-02-celobrojno-programiranje/04-02-03-facility-location/data/facility_locations.csv', usecols= ['x','y'])
+facility_locations = pd.read_csv('04-02-celobrojno-programiranje/03-p-median-problem/data/facility_locations.csv', usecols= ['x','y'])
 #print(facility_locations)
-building_costs = pd.read_csv('04-02-celobrojno-programiranje/04-02-03-facility-location/data/building_costs.csv', usecols= ['building_costs'])
+building_costs = pd.read_csv('04-02-celobrojno-programiranje/03-p-median-problem/data/building_costs.csv', usecols= ['building_costs'])
 #print(building_costs)
 
 # Create helper function for distance calculation between consumer and facility
@@ -79,7 +79,7 @@ y = model.add_variables(binary=True, coords=[y_coord], name='y')
 #print(y)
 
 # Objective function
-model.add_objective( (x*distances).sum() + (build_costs*y).sum(), sense='max')
+model.add_objective( (x*distances).sum() + (y*build_costs).sum(), sense='min')
 
 # Constraint: each consumer is served by one facility
 for i in range(n):
@@ -90,14 +90,15 @@ for i in range(n):
     for j in range(m):
         model.add_constraints(x.loc[i,j] <= y.loc[j])
 
-# Constraint: there have to be exactly 3 established facilities 
-model.add_constraints( (y).sum() == 3)
+p:int = 4
+# Constraint: there have to be exactly p established facilities 
+model.add_constraints( (y).sum() == p)
 
 #print(model)
 
 model.solve()
 
-#print(model.solution)
+print(model.solution)
 
 #print("{}:\n{}\n".format(x, x.solution))
 #print("{}:\n{}\n".format(y, y.solution))
@@ -106,8 +107,8 @@ selected = []
 for j in range(m):
     if y.solution.data[j] > 0:
         selected.append([facility_locations.loc[j].x, facility_locations.loc[j].y])
-#print(selected)
 selected = pd.DataFrame(selected, columns=['x', 'y'])
+#print(selected)
 
 links = []
 for i in range(n):
@@ -119,16 +120,16 @@ for i in range(n):
             y2 = facility_locations.loc[j].y
             links.append([x1,y1,x2,y2])
 links = pd.DataFrame(links, columns=['x1', 'y1', 'x2', 'y2'])
-print(links)
+#print(links)
 
 # Draw results data on screen
 draw = (
     ggplot(consumer_locations)  
     + aes(x="x", y="y")  
     + geom_point() 
-    #+ geom_segment(data=links, mapping=aes(x = x1, y = y1, xend = x2, yend = y2))
-    + geom_point(data = facility_locations, color = "red", alpha = 0.5) 
-    + geom_point(data = selected, color = "cyan", alpha = 0.5) 
+    + geom_segment(data=links)
+    + geom_point(data = facility_locations, mapping = aes(x=(x1), y=(y1), xend=(x2), yend=(y2)), color = "red", alpha = 0.5)
+    + geom_point(data = selected, color = "cyan", alpha = 0.5, size=2) 
 )
 print(draw)
 

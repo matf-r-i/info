@@ -4,8 +4,6 @@ import pandas as pd
 import xarray as xr 
 from linopy import Model
 
-
-
 m = Model()
 
 x_coord = pd.Index(range(5), name='x_coord')
@@ -13,7 +11,7 @@ y_coord = pd.Index(range(5), name='y_coord')
 
 x = m.add_variables(binary=True,  coords=[x_coord,y_coord], name='x')
 
-y = m.add_variables(integer=True, coords=[x_coord,y_coord], name='y')
+y = m.add_variables(integer=True, lower=0, upper=2, coords=[x_coord,y_coord], name='y')
 
 print(x)
 

@@ -5,6 +5,7 @@
         "gurobi",
         "gurobipy",
         "linopy",
+        "networkx",
         "Opti",
         "plotnine",
         "usecols",
