@@ -8,6 +8,7 @@
         "networkx",
         "Opti",
         "plotnine",
+        "pylab",
         "usecols",
         "xarray"
     ]

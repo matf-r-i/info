@@ -1,20 +1,9 @@
-# Facility location problem can be described terms as follows:
-# We must decide the placement of a group of facilities that distribute a certain good to a group of consumers that need it.
-# The placement must to be chosen in order to minimize the distribution costs and fulfilling a set of possible additional constraints like building budget or maximum number of facilities.
-# In a first stage, let’s make the following assumptions:
-# 1. The possible locations for the facilities are known.
-# 2. The facility building costs are fixed and known. This cost is paid only if we decide that the facility is going to be installed.
-# 3. The transportation costs are known. For example we can imagine that the transport cost is proportional to the total distance covered in the good distribution.
-# 4. Each facility can, if necessary, provide the all the demand.
-# Notice that in this scenario there are two possible decision to be maid:
-# (1) which facilities will be built and
-# (2) which facility will serve each consumer.
-# The objective of this assignment is to find an optimal placement of the facilities by formulating the problem as a Mixed Linear Integer Programming problem.
 
 import math
 
 import pandas as pd
 from plotnine import ggplot, aes, geom_line, geom_point, geom_segment
+import matplotlib.pyplot as plt
 
 import xarray as xr 
 from linopy import Model
@@ -42,7 +31,8 @@ draw = (
     + geom_point() 
     + geom_point(data = facility_locations, color = "red", alpha = 0.5) 
 )
-#print(draw)
+print(draw)
+
 
 # Obtain model dimension
 n:int = consumer_locations.shape[0]
@@ -127,10 +117,13 @@ draw = (
     ggplot(consumer_locations)  
     + aes(x="x", y="y")  
     + geom_point() 
-    + geom_segment(data=links)
-    #+ geom_point(data = facility_locations, mapping = aes(x=x1, y=y1, xend=x2, yend=y2), color = "red", alpha = 0.5)
-    + geom_point(data = selected, color = "cyan", alpha = 0.5, size=2) 
+    + geom_point(data = facility_locations,color = "red")
 )
+for i in range(n):
+    draw += geom_segment(mapping = aes(x=links.loc[i].x1, y=links.loc[i].y1, 
+            xend=links.loc[i].x2, yend=links.loc[i].y2), color="cyan",  alpha = 0.3)
+draw += geom_point(data = consumer_locations)
+draw += geom_point(data = selected, color = "green", alpha = 1, size=2) 
 print(draw)
 
 
