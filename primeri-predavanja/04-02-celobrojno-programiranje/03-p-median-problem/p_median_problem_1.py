@@ -3,7 +3,6 @@ import math
 
 import pandas as pd
 from plotnine import ggplot, aes, geom_line, geom_point, geom_segment
-import matplotlib.pyplot as plt
 
 import xarray as xr 
 from linopy import Model
