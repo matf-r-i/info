@@ -30,7 +30,7 @@ draw = (
     + geom_point() 
     + geom_point(data = facility_locations, color = "red", alpha = 0.5) 
 )
-print(draw)
+#print(draw)
 
 
 # Obtain model dimension
