@@ -4,13 +4,11 @@
 
 - **Уводна разматрања**
 
-- **[Анализа, одлучивање, оптимизација (енг.)](prezentacije/01-uvod/01_uvod_eng.pdf){:target="_blank"}**
+  - **[Анализа, одлучивање, оптимизација (енг.)](prezentacije/01-uvod/01_uvod_eng.pdf){:target="_blank"}**
 
-- **[Оптимизација и машинско учење](prezentacije/01-uvod/02-optimizacija-i-masinsko-ucenje.pdf){:target="_blank"}**
+  - **[Оптимизација и машинско учење](prezentacije/01-uvod/02-optimizacija-i-masinsko-ucenje.pdf){:target="_blank"}**
 
-- **[Рачунарска интелигенција](prezentacije/01-uvod/03-uvod-u-racunarsku-inteligenciju.pdf){:target="_blank"}**
-
-- **Фази системи**
+  - **[Рачунарска интелигенција](prezentacije/01-uvod/03-uvod-u-racunarsku-inteligenciju.pdf){:target="_blank"}**
 
 - **[Фази системи](prezentacije/02-fazi-sistemi/01-fazi-sistemi.pdf){:target="_blank"}**
 
@@ -116,6 +114,4 @@
 
   - **[Табу претрага](prezentacije/06-metaheuristike/08-tabu-pretraga-eng.pdf){:target="_blank"}**
 
-- **Вештачке неуронске мреже**
-
-  - **[Опис вештачке неуронске мреже (енг.)](prezentacije/07-vestacke-neuronske-mreze/01-vestacke-neuronske-mreze.pdf){:target="_blank"}**
+- **[Вештачке неуронске мреже](prezentacije/07-vestacke-neuronske-mreze/01-vestacke-neuronske-mreze.pdf){:target="_blank"}**
