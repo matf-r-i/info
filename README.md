@@ -8,4 +8,6 @@
 
 ## Настава
 
+**[Информације о курсу](informacije-o-kursu/README.md)**
+
 **[Предавања](predavanja/README.md)**
