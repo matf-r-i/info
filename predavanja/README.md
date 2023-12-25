@@ -4,6 +4,8 @@
 
 ---
 
+## Теме које се разматрају на предавањима
+
 Предавања из курса Рачунарска интелигенција су организована на следећи начин:
 
 - **Уводна разматрања**
@@ -119,3 +121,9 @@
   - **[Табу претрага](prezentacije/06-metaheuristike/08-tabu-pretraga-eng.pdf){:target="_blank"}**
 
 - **[Вештачке неуронске мреже](prezentacije/07-vestacke-neuronske-mreze/01-vestacke-neuronske-mreze.pdf){:target="_blank"}**
+
+## Примери изворног кода
+
+Примери изворног кода се налазе у јавно доступном гитхаб репозиторијуму [https://github.com/matf-r-i/primeri-predavanja.git](https://github.com/matf-r-i/primeri-predavanja.git){:target="_blank"}.
+
+Неки од примера користе библиотеку `universal-optimizer`, чији је изворни код дат у јавно доступном гитхаб репозиторијуму [https://github.com/vladofilipovic/universal-optimizer](https://github.com/vladofilipovic/universal-optimizer){:target="_blank"}, а документација на адреси [https://vladofilipovic.github.io/universal-optimizer/](https://vladofilipovic.github.io/universal-optimizer/){:target="_blank"}.

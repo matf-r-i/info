@@ -24,12 +24,6 @@
 
 Сва горе наведена литература се налази у истом гитхaб репозиторијуму у ком се налази и ова презентација, у оквиру директоријума `/predavanja/knjige`.
 
-## Примери изворног кода
-
-Примери изворног кода се налазе у јавно доступном гитхаб репозиторијуму [https://github.com/matf-r-i/primeri-predavanja.git](https://github.com/matf-r-i/primeri-predavanja.git){:target="_blank"}.
-
-Неки од примера користе библиотеку `universal-optimizer`, чији је изворни код дат у јавно доступном гитхаб репозиторијуму [https://github.com/vladofilipovic/universal-optimizer](https://github.com/vladofilipovic/universal-optimizer){:target="_blank"}, а документација на адреси [https://vladofilipovic.github.io/universal-optimizer/](https://vladofilipovic.github.io/universal-optimizer/){:target="_blank"}.
-
 ## Начин полагања испита
 
 - Предиспитна обавеза (може полагати током целе школске године):
