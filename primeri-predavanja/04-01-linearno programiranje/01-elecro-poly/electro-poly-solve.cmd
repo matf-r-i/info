@@ -1,1 +1,0 @@
-gurobi_cl  .\electro-poly.lp ResultFile=.\electo-poly.sol  
