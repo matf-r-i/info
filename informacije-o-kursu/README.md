@@ -2,7 +2,7 @@
 
 [РИ](../README.md)
 
-Курс **Рачунарска интелигенција** у академској 2023/24 години реализују наставник Владимир Филиповић и асистенти Стефан капунац и Иван Поп Јорданов.
+Курс **Рачунарска интелигенција** у академској 2023/24 години реализују наставник [Владимир Филиповић](https://vladofilipovic.github.io/index-cy.html){:target="_blank"} и асистенти [Стефан Капунац](https://poincare.matf.bg.ac.rs/~stefan.kapunac/index.html){:target="_blank"} и Иван Поп Јованов.
 
 ## План и програм
 
@@ -18,7 +18,7 @@
 
 - "Evolutionary Computation - The Fossil Record", уредник David Fogel, издавач John Willey & Sons, 1988.  
 
-- "Metaheusristics - from design to implementation", уредник  Tаlbi El-Gazali, издавач John Willey & Sons, 2009.
+- "Metaheuristics - from design to implementation", уредник  Tаlbi El-Gazali, издавач John Willey & Sons, 2009.
 
 - "Uvod u operaciona istrazivanja", аутори Драган Матић и Марко Ђукановић, издавач ПМФ Бања Лука 2021.
 
@@ -46,13 +46,13 @@
   
 ### Пројекат
 
-Рад на пројекту примарно реализују асистенти. Све информације о веб.
+Рад на пројекту примарно реализују асистенти. Све информације о том делу испита су дате на одговарајућој [веб страни](https://docs.google.com/document/d/1bYkuzaWFJPz_F0TrE2B_0viy8RZcBlzDrvr9BeC8FG4/edit){:target="_blank"}.
 
 ### Практични испит и колоквијуми
 
+Практични испит и колоквијум примарно реализују асистенти. Све информације о том делу испита су дате на [веб страни](https://poincare.matf.bg.ac.rs/~stefan.kapunac/ri.html){:target="_blank"} курса која се односи на вежбе.
 
-
-# Теоријски испит
+### Теоријски испит
 
 Питања за теоријски део испита се бирају из следећег [списка](./ispitna.pitanja.2023.pdf){:target="_blank"}. Поред сваког питања у том спсику је написан обавезни ресурс/секција из књиге или слајдови за његову припрему.
 
