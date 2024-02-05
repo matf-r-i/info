@@ -4,7 +4,9 @@
 
 ## Актуелне информације
 
-**[Термин теоријског дела испита у испитном року Јануар 1](informacije-o-kursu/tekuce-informacije/README.md)**
+**[Термин теоријског дела испита у испитном року Јануар 2](informacije-o-kursu/tekuce-informacije/README.md)**
+
+<!-- **[Термин теоријског дела испита у испитном року Јануар 1](informacije-o-kursu/tekuce-informacije/README.md)** -->
 
 <!-- **[Отказана су предавања за среду 29.11.2023](predavanja/info/README.md)** -->
 
