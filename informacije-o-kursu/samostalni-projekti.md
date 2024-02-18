@@ -10,3 +10,5 @@
 | 2.  | Aња Цветковић | 127/2020 | mi20127@alas.matf.bg.ac.rs https://github.com/AnjaCvetkovic25 |  |  |
 |  |  |  |  | Variable Neighborhood Search | Vehicle Routing Problem |
 |  |  |  |  | Genetic Algorithm | Vehicle Routing Problem |
+
+
