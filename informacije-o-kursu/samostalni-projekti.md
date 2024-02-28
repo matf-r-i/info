@@ -13,7 +13,9 @@
 | 3.  | Којичић Леа | 365/2022 | mr21079@alas.matf.bg.ac.rs https://github.com/??? |  |  |
 |  |  |  |  | Particle Swarm Optimization | ??? |
 | 4.  | Никитовић Марко | 123/2020 | mi20123@alas.matf.bg.ac.rs https://github.com/shotinform |  |  |
-|  |  |  |  | Genetic programming? | Symbolic Regression? |
-| 5.  | Радосављевић Марко | 79/2020 | mi20079@alas.matf.bg.ac.rs https://github.com/Markic01 |  |  |
+|  |  |  |  | Genetic Programming? | Symbolic Regression? |
+| 5.  | Петронијевић Кристијан | 357/2022 | mi22357@alas.matf.bg.ac.rs https://github.com/kristijanpetronijevic |  |  |
+|  |  |  |  | Differential Evolution? | Problem from CEC 13 Benchmark? |
+| 6.  | Радосављевић Марко | 79/2020 | mi20079@alas.matf.bg.ac.rs https://github.com/Markic01 |  |  |
 |  |  |  |  | Variable Neighborhood Search | Minimum Multi Cut Problem |
 |  |  |  |  | Genetic Algorithm | Minimum Multi Cut Problem |
