@@ -10,11 +10,11 @@
 | 2.  | Јефтић Стефан | 187/2020 | mi20187@alas.matf.bg.ac.rs https://github.com/StefanJevtic63 |  |  |
 |  |  |  |  | Variable Neighborhood Search | Vehicle Routing Problem |
 |  |  |  |  | Genetic Algorithm | Vehicle Routing Problem |
-| 3.  | Радосављевић Марко | 79/2020 | mi20079@alas.matf.bg.ac.rs https://github.com/Markic01/MinimumMultiCut |  |  |
+| 3.  | Којичић Леа | 365/2022 | mr21079@alas.matf.bg.ac.rs https://github.com/??? |  |  |
+|  |  |  |  | Particle Swarm Optimization | ??? |
+| 4.  | Радосављевић Марко | 79/2020 | mi20079@alas.matf.bg.ac.rs https://github.com/Markic01/MinimumMultiCut |  |  |
 |  |  |  |  | Variable Neighborhood Search | Minimum Multi Cut Problem |
 |  |  |  |  | Genetic Algorithm | Minimum Multi Cut Problem |
-| 4.  | Цветковић Aња | 127/2020 | mi20127@alas.matf.bg.ac.rs https://github.com/AnjaCvetkovic25 |  |  |
+| 5.  | Цветковић Aња | 127/2020 | mi20127@alas.matf.bg.ac.rs https://github.com/AnjaCvetkovic25 |  |  |
 |  |  |  |  | Variable Neighborhood Search | Vehicle Routing Problem |
 |  |  |  |  | Genetic Algorithm | Vehicle Routing Problem |
-
-
