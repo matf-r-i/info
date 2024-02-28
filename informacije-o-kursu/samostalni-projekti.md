@@ -15,6 +15,3 @@
 | 4.  | Радосављевић Марко | 79/2020 | mi20079@alas.matf.bg.ac.rs https://github.com/Markic01/MinimumMultiCut |  |  |
 |  |  |  |  | Variable Neighborhood Search | Minimum Multi Cut Problem |
 |  |  |  |  | Genetic Algorithm | Minimum Multi Cut Problem |
-| 5.  | Цветковић Aња | 127/2020 | mi20127@alas.matf.bg.ac.rs https://github.com/AnjaCvetkovic25 |  |  |
-|  |  |  |  | Variable Neighborhood Search | Vehicle Routing Problem |
-|  |  |  |  | Genetic Algorithm | Vehicle Routing Problem |
