@@ -10,8 +10,9 @@
 | 2.  | Јефтић Стефан | 187/2020 | mi20187@alas.matf.bg.ac.rs https://github.com/StefanJevtic63 |  |  |
 |  |  |  |  | Variable Neighborhood Search | Vehicle Routing Problem |
 |  |  |  |  | Genetic Algorithm | Vehicle Routing Problem |
-| 3.  | Којичић Леа | 365/2022 | mr21079@alas.matf.bg.ac.rs https://github.com/??? |  |  |
-|  |  |  |  | Particle Swarm Optimization | ??? |
+| 3.  | Којичић Леа | 365/2022 | mr21079@alas.matf.bg.ac.rs https://github.com/klea0605 |  |  |
+|  |  |  |  | Particle Swarm Optimization | Traveling Salesperson Problem |
+|  |  |  |  | Integer Linear Programming | Traveling Salesperson Problem |
 | 4.  | Никитовић Марко | 123/2020 | mi20123@alas.matf.bg.ac.rs https://github.com/shotinform |  |  |
 |  |  |  |  | Genetic Programming? | Symbolic Regression? |
 | 5.  | Петронијевић Кристијан | 357/2022 | mi22357@alas.matf.bg.ac.rs https://github.com/kristijanpetronijevic |  |  |
