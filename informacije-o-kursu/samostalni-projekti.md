@@ -13,10 +13,12 @@
 | 3.  | Којичић Леа | 365/2022 | mr21079@alas.matf.bg.ac.rs https://github.com/klea0605 |  |  |
 |  |  |  |  | Particle Swarm Optimization | Traveling Salesperson Problem |
 |  |  |  |  | Integer Linear Programming | Traveling Salesperson Problem |
-| 4.  | Никитовић Марко | 123/2020 | mi20123@alas.matf.bg.ac.rs https://github.com/shotinform |  |  |
+| 4.  | Нешић Никола | 170/2018 | mi18170@alas.matf.bg.ac.rs https://github.com/??? |  |  |
+|  |  |  |  | Hybrid of Genetic Algorithm and Particle Swarm Optimization | Himmelbalu Problem |
+| 5.  | Никитовић Марко | 123/2020 | mi20123@alas.matf.bg.ac.rs https://github.com/shotinform |  |  |
 |  |  |  |  | Genetic Programming? | Symbolic Regression? |
-| 5.  | Петронијевић Кристијан | 357/2022 | mi22357@alas.matf.bg.ac.rs https://github.com/kristijanpetronijevic |  |  |
+| 6.  | Петронијевић Кристијан | 357/2022 | mi22357@alas.matf.bg.ac.rs https://github.com/kristijanpetronijevic |  |  |
 |  |  |  |  | Differential Evolution? | Problem from CEC 13 Benchmark? |
-| 6.  | Радосављевић Марко | 79/2020 | mi20079@alas.matf.bg.ac.rs https://github.com/Markic01 |  |  |
+| 7.  | Радосављевић Марко | 79/2020 | mi20079@alas.matf.bg.ac.rs https://github.com/Markic01 |  |  |
 |  |  |  |  | Variable Neighborhood Search | Minimum Multi Cut Problem |
 |  |  |  |  | Genetic Algorithm | Minimum Multi Cut Problem |
