@@ -19,9 +19,9 @@
 | 5.  | Нешић Никола | 170/2018 | mi18170@alas.matf.bg.ac.rs https://github.com/??? |  |  |
 |  |  |  |  | Hybrid of Genetic Algorithm and Particle Swarm Optimization | Himmelbalu Problem |
 | 6.  | Никитовић Марко | 123/2020 | mi20123@alas.matf.bg.ac.rs https://github.com/shotinform |  |  |
-|  |  |  |  | Genetic Programming? | Symbolic Regression? |
+|  |  |  |  | Genetic Programming | Symbolic Regression |
 | 7.  | Петронијевић Кристијан | 357/2022 | mi22357@alas.matf.bg.ac.rs https://github.com/kristijanpetronijevic |  |  |
-|  |  |  |  | Differential Evolution? | Problem from CEC 13 Benchmark? |
+|  |  |  |  | Differential Evolution? | Problem from CEC 13 Benchmark |
 | 8.  | Радосављевић Марко | 79/2020 | mi20079@alas.matf.bg.ac.rs https://github.com/Markic01 |  |  |
 |  |  |  |  | Variable Neighborhood Search | Minimum Multi Cut Problem |
 |  |  |  |  | Genetic Algorithm | Minimum Multi Cut Problem |
