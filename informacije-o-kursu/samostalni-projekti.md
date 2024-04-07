@@ -5,8 +5,8 @@
 | бр.   | Студент | индекс |е-маил & гитхаб | Алгоритам | Проблем |
 | :---: | :------ | :----- | :------------- | :-------- | :------ |
 | 1.  | Андрић Бошко | 26/2020 | mi20026@alas.matf.bg.ac.rs https://github.com/bandric0 |  |  |
-|  |  |  |  | Genetic Algorithm ? | Set Covering Problem |
-|  |  |  |  | Simulated Aneeling ? | Set Covering Problem |
+|  |  |  |  | Genetic Algorithm ? | Set Covering Problem ? |
+|  |  |  |  | Simulated Aneeling ? | Set Covering Problem ? |
 | 2.  | Дамјановић Анђела | 59/2019 | mi19059@alas.matf.bg.ac.rs https://github.com/AndjelaDamnjanovic |  |  |
 |  |  |  |  | Electromagnetism-like Metaheuristics  | Set Covering Problem |
 |  |  |  |  | Integer Linear Programming  | Set Covering Problem |
