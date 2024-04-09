@@ -14,7 +14,9 @@
 
 Додатна литература:
 
-- "Handbook of Natural Computing", уредници Grzegorz Rozenberg, Thomas Back и Joost N. Kok, издавач Springer 2012.
+- "Handbook of Natural Computing", уредници Grzegory Rozenberg, Thomas Back и Joost N. Kok, издавач Springer 2012.
+
+- "Search Methodologies - Introductory Tutorials in Optimization and Decision Support Techniques", уредници Edmund Burke и Graham Kendall, издавач Springer 2014.
 
 - "Evolutionary Computation - The Fossil Record", уредник David Fogel, издавач John Willey & Sons, 1988.  
 
