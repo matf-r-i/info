@@ -4,7 +4,11 @@
 
 ## Актуелне информације
 
-**[Термин теоријског дела испита у испитном року Јануар 2](informacije-o-kursu/tekuce-informacije/README.md)**
+[Термин теоријског дела испита и одбране самосталног пројекта у року Јун 1](informacije-o-kursu/predavanja/info/README.md)
+
+<!--**[Термин теоријског дела испита у испитном року Јануар 2](informacije-o-kursu/tekuce-informacije/README.md)**-->
+
+<!-- **[Термин теоријског дела испита у испитном року Јануар 1](informacije-o-kursu/tekuce-informacije/README.md)** -->
 
 <!-- **[Термин теоријског дела испита у испитном року Јануар 1](informacije-o-kursu/tekuce-informacije/README.md)** -->
 
