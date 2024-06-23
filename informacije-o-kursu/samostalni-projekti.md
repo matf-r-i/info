@@ -33,5 +33,5 @@
 |  |  |  |  | Simulated Aneeling | Cutting Stock Problem |
 |  |  |  |  | ? | ? |
 | 11.  | Радосављевић Марко | 79/2020 | mi20079@alas.matf.bg.ac.rs https://github.com/Markic01 |  |  |
-|  |  |  |  | Variable Neighborhood Search | Minimum Multi Cut Problem |
-|  |  |  |  | Genetic Algorithm | Minimum Multi Cut Problem |
+|  |  |  | OK | Variable Neighborhood Search | Minimum Multi Cut Problem |
+|  |  |  | OK | Genetic Algorithm | Minimum Multi Cut Problem |
