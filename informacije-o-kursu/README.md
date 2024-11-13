@@ -2,7 +2,7 @@
 
 [РИ](../README.md)
 
-Курс **Рачунарска интелигенција** у академској 2023/24 години реализују наставник [Владимир Филиповић](https://vladofilipovic.github.io/index-cy.html){:target="_blank"} и асистент [Стефан Капунац](https://poincare.matf.bg.ac.rs/~stefan.kapunac/index.html){:target="_blank"}.
+Курс **Рачунарска интелигенција** у академској 2023/24 години реализују наставник [Владимир Филиповић](https://vladofilipovic.github.io/index-cy.html){:target="_blank"} и асистент [Стефан Капунац](https://poincare.matf.bg.ac.rs/~stefan.kapunac/index.html){:target="_blank"}. Термин за консултације код наставника је среда у 16:00, БИМ сала на Студентском тргу, уз обавезну најаву преко е-маил-а бар један дан пре самих консултација.
 
 ## План и програм
 
