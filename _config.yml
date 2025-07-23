@@ -2,7 +2,6 @@
 theme: jekyll-theme-hacker
 
 # Margin
-
 global:
   all: 1in
   bottom: 1.5in
