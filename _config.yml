@@ -1,6 +1,11 @@
 # Theme
 theme: jekyll-theme-hacker
 
+# Margin
+ global:
+   all: "1in"
+   bottom: "1.5in"
+
 # Analytics
 analytics:
   provider: "google-gtag"
