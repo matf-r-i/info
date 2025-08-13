@@ -4,6 +4,8 @@
 
 ## Новости
 
+[(Датум објаве 13.08.2025.) **Термин усменог испита у испитном року Јун 1**](/informacije-o-kursu/tekuce-informacije/README.md)
+
 [(Датум објаве 12.08.2025.) **Питања за усмени неће садржати фази логику нити фази системе**](/informacije-o-kursu/tekuce-informacije/README.md)
 
 [(Датум објаве 22.07.2025.) **Промена у начину бодовања за 2024/25 академску годину**](/informacije-o-kursu/tekuce-informacije/README.md)
