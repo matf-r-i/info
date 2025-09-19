@@ -4,6 +4,8 @@
 
 ## Новости
 
+[(Датум објаве 19.09.2025.) [**Термин усменог испита у испитном року Јун 1**](/informacije-o-kursu/tekuce-informacije/README.md)
+
 [(Датум објаве 27.08.2025.) [**Термин усменог испита у испитном року Јануар 2**](/informacije-o-kursu/tekuce-informacije/README.md)
 
 [(Датум објаве 13.08.2025.) [**Термин усменог испита у испитном року Јануар 1**](/informacije-o-kursu/tekuce-informacije/README.md)
