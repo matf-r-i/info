@@ -46,43 +46,48 @@
   
     - [Проблем фаза у току новца (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/01-pr6-linearno-programiranje-faze-toka-novca-bic.pdf){:target="_blank"}
 
-  - **[Графички приказ линеарног програмирања (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/07-linearno-programiranje-graficko-eng-gur.pdf){:target="_blank"}**
+  - **[Графички приказ линеарног програмирања (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/02-linearno-programiranje-graficko-gur.pdf){:target="_blank"}**
 
-  - **[Симплекс метода (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/08-simpleks-metoda-eng.pdf){:target="_blank"}**
+  - **[Симплекс метода (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/04-simpleks-metoda-gur.pdf){:target="_blank"}**
 
-  - **[Симплекс метода 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/08-simpleks-metoda-eng-gur.pdf){:target="_blank"}**
+  - **[Симплекс метода 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/04-simpleks-metoda-bic.pdf){:target="_blank"}**
 
-  - **[Анализа осетљивости (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/09-analiza-osetljivosti-1-eng.pdf){:target="_blank"}**
+  - **[Анализа осетљивости (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/09-analiza-osetljivosti-1-bic.pdf){:target="_blank"}**
 
-  - **[Анализа осетљивости 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/10-analiza-osetljivosti-2-eng.pdf){:target="_blank"}**
+  - **[Анализа осетљивости 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/09-analiza-osetljivosti-2-bic.pdf){:target="_blank"}**
 
-  - **[Анализа осетљивости 3 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/10-analiza-osetljivosti-2-eng-gur.pdf){:target="_blank"}**
+  - **[Анализа осетљивости 3 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/09-analiza-osetljivosti-gur.pdf){:target="_blank"}**
 
-- **Целобројно линеарно програмирање**
+  - **[Дуални проблем (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/12-optimalnost-primal-dual-gur.pdf){:target="_blank"}**
+
+  - **[Дуални проблем 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-01-linearno-programiranje/11-dual-problema-gur.pdf){:target="_blank"}**
+
+
+**Целобројно линеарно програмирање**
 
   - **Примери проблема целобројнох линераног програмирања**
 
-    - [Проблем мрежног тока 1 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/04-mezni-tok-primer-1-eng.pdf){:target="_blank"}
+    - [Проблем мрежног тока 1 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/04-mrezni-tok-primer-1-bic.pdf){:target="_blank"}
 
-    - [Проблем мрежног тока 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/05-mrezni-tok-primer-2-eng.pdf){:target="_blank"}
+    - [Проблем мрежног тока 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/05-mrezni-tok-primer-2-bic.pdf){:target="_blank"}
 
-    - [Проблем мрежног тока 3 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/06-merzni-tok-primer-3-eng.pdf){:target="_blank"}
+    - [Проблем мрежног тока 3 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/06-mrezni-tok-primer-3-bic.pdf){:target="_blank"}
 
-    - [Проблем мрежног тока 4 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/07-merzni-tok-primer-4-eng.pdf){:target="_blank"}
+    - [Проблем мрежног тока 4 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/07-mrezni-tok-primer-4-bic.pdf){:target="_blank"}
 
-  - **[Целобројно програмирање (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/01-celobrojno-programiranje-eng.pdf){:target="_blank"}**
+  - **[Целобројно програмирање (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/01-celobrojno-programiranje-bic.pdf){:target="_blank"}**
 
-  - **[Целобројно програмирање 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/01-celobrojno-programiranje-eng-mit.pdf){:target="_blank"}**
+  - **[Целобројно програмирање 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/01-celobrojno-programiranje-mit.pdf){:target="_blank"}**
 
-  - **[Гранање и ограничавање (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/02-grananje-i-ogranicavanje-eng.pdf){:target="_blank"}**
+  - **[Гранање и ограничавање (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/02-grananje-i-ogranicavanje-bic.pdf){:target="_blank"}**
 
-  - **[Гранање и ограничавање 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/02-grananje-i-ogranicavanje-i-lr-eng-mit.pdf){:target="_blank"}**
+  - **[Гранање и ограничавање 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/02-grananje-i-ogranicavanje-mit.pdf){:target="_blank"}**
 
-  - **[Моделирање проблема целобројног програмирања (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/08-razni-problemi-celobrojnog-programiranja-eng.pdf){:target="_blank"}**
+  - **[Моделирање проблема целобројног програмирања (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/03-osnovni-problemi-primeri-bic.pdf){:target="_blank"}**
 
-  - **[Моделирање проблема целобројног програмирања 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/08-razni-problemi-celobrojnog-programiranja-eng-mit.pdf){:target="_blank"}**
+  - **[Моделирање проблема целобројног програмирања 2 (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/08-problemi-primeri-mit.pdf){:target="_blank"}**
 
-  - **[Упутство за формулисање модела целобројног програмирања (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/09-uputstvo-za-formulisanje-ilp-modela-eng.pdf){:target="_blank"}**
+  - **[Упутство за формулисање модела целобројног програмирања (енг.)](prezentacije/03-linearno-i-celobrojno-programiranje/03-02-celobrojno-programiranje/09-uputstvo-za-formulisanje-ilp-modela-mit.pdf){:target="_blank"}**
 
 - **Нелинеарна оптимизација**
 
@@ -110,7 +115,7 @@
 
   - **[Генетски алгоритми](prezentacije/05-metaheuristike/03-genetski-algoritmi.pdf){:target="_blank"}**
 
-  - **[Генетски алгоритми (енг.)](prezentacije/05-metaheuristike/03-genettski-algoritmi-eng.pdf){:target="_blank"}**
+  - **[Генетски алгоритми (енг.)](prezentacije/05-metaheuristike/03-genettski-algoritmi-bic.pdf){:target="_blank"}**
 
   - **[Генетско програмирање](prezentacije/05-metaheuristike/04-genetsko-programiranje.pdf){:target="_blank"}**
 
@@ -118,11 +123,17 @@
 
   - **[Оптимизација ројевима честица](prezentacije/05-metaheuristike/06-optimizacija-rojevima-cestica.pdf){:target="_blank"}**
 
-  - **[Симулација каљења](prezentacije/05-metaheuristike/07-simulacija-kaljenja-eng.pdf){:target="_blank"}**
+  - **[Симулација каљења](prezentacije/05-metaheuristike/07-simulacija-kaljenja-bic.pdf){:target="_blank"}**
 
-  - **[Табу претрага](prezentacije/05-metaheuristike/08-tabu-pretraga-eng.pdf){:target="_blank"}**
+  - **[Табу претрага](prezentacije/05-metaheuristike/08-tabu-pretraga-bic.pdf){:target="_blank"}**
 
 - **[Вештачке неуронске мреже](prezentacije/06-vestacke-neuronske-mreze/01-vestacke-neuronske-mreze.pdf){:target="_blank"}**
+
+- **Велики језички модели**
+
+  - **[Опис великих језичких модела](prezentacije/07-veliki-jezicki-modeli/01-veliki-jezicki-modeli.pdf){:target="_blank"}**
+
+  - **[Структура великх језичких модела](prezentacije/07-veliki-jezicki-modeli/02-llm-mesto-struktura.pdf){:target="_blank"}**
 
 ## Примери изворног кода
 
