@@ -64,9 +64,13 @@
 
 ### Самостални пројекат
 
-Самостални пројекат се односи на проширење гитхаб репозиторијума [`universal-optimizer`](https://github.com/vladofilipovic/universal-optimizer){:target="_blank"} новим метахеуристикама и алгоритмима за решавње нових оптимзационих проблема. Метхеусристика и алгоритм за решавање проблема су, по правилу, исти који су развијени у оквиру претходно описаног пројекта који су прегледали асистенти.
+Самостални пројекат се односи на проширење система `universal-optimizer`, тј проширење гитхаб репозиторијума за библиотеку [`universal-optimizer-lib-python`](https://github.com/matf-r-i/universal-optimizer-lib-python){:target="_blank"} новим метахеуристикама и алгоритмима за решавње нових оптимзационих проблема, као и на проширење гитхаб репозиторијума за апликације [`universal-optimizer-app`](https://github.com/matf-r-i/universal-optimizer-app){:target="_blank"} у којој ће се користити претохоно развијени библиотечки методи. Метхеуристика и алгоритм за решавање проблема су, по правилу, исти који су развијени у оквиру претходно описаног пројекта који су прегледали асистенти.
 
-Метахеуристике и алгоритми који се додају морају бити развијени у сагласности са правилима описаним у [документацији](https://vladofilipovic.github.io/universal-optimizer/contribution.html){:target="_blank"} библиотеке/система `universal-optimizer`. Приликом рада на самосталном пројекту искључиво се користи енглески језик.
+Документација за актуелне верзије [`библиотеке`](https://matf-r-i.github.io/universal-optimizer-lib-python/index.html){:target="_blank"} и [`апликације`](https://matf-r-i.github.io/universal-optimizer-app/index.html){:target="_blank"} су такође доступне и потребно их је ажурирати тако да новододате функционалности буду укључене.
+
+Метахеуристике и алгоритми који се додају морају бити развијени у сагласности са правилима описаним у [документацији библиотеке](https://matf-r-i.github.io/universal-optimizer-lib-python/contribution.html){:target="_blank"}  и [`документацији апликацијe`](https://matf-r-i.github.io/universal-optimizer-app/contribution.html){:target="_blank"} система `universal-optimizer`.
+
+Приликом рада на самосталном пројекту искључиво се користи енглески језик.
 
 Листа изабраних самосталних пројеката се налази у следећем [документу](./samostalni-projekti.md){:target="_blank"}.
 
