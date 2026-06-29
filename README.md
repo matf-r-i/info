@@ -4,6 +4,8 @@
 
 ## Новости
 
+(Датум објаве 29.06.2026.) [**Термин усменог испита у испитном року Јун 1**](/informacije-o-kursu/tekuce-informacije/README.md)
+
 (Датум објаве 18.03.2026.) [**Термин усменог испита у испитном року Јануар 2**](/informacije-o-kursu/tekuce-informacije/README.md)
 
 <!-- (Датум објаве 01.03.2026.) [**Термин усменог испита у испитном року Јануар 1**](/informacije-o-kursu/tekuce-informacije/README.md) -->
