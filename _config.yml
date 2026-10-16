@@ -7,3 +7,15 @@ analytics:
   google:
     measurement_id: "G-9DVN399R8T"
     anonymize_ip: # true, false (default)
+
+# Development files are not part of the published site.
+exclude:
+  - vendor
+
+# Match GitHub Pages Markdown and README handling in local previews.
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
